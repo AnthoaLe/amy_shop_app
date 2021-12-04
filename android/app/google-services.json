@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "118942939675",
+    "project_id": "amy-s-shop-app",
+    "storage_bucket": "amy-s-shop-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118942939675:android:2f96a083509f090da416be",
+        "android_client_info": {
+          "package_name": "com.codingmindsacademy.anhoale.amy_shop_app_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118942939675-r3ja2o1vaovq71jjvuehrpeen4eue9re.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVe5AEwj2_jnJB-u__rudd-4WcVMCpOXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118942939675-r3ja2o1vaovq71jjvuehrpeen4eue9re.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
